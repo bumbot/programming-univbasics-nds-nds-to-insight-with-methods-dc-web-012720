@@ -23,7 +23,7 @@ def directors_totals(nds)
   count = 0
   result = {}
   
-  nds.each do |key, value|
+  while count < nds.length do
     
   end
 end
