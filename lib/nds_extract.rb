@@ -7,6 +7,11 @@ require 'pp'
 pp directors_database
 def gross_for_director(director_data)
   gross = 0
+  count = 0
+  
+  while count < director_data.length do
+      
+  end
   
   
 end
